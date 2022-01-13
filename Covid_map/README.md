@@ -25,3 +25,5 @@ It showes the Country name if you hover over the icon.
 If you click on icon it showes: Country Name + Confirmed cases + Deaths + Mortality per 100,000 popualtion ()
 The data from "Main Data" column is used for popup.
 The data from "Lat" and "Long" colums used for country location on the Map.
+
+https://amak-code.github.io/Projects/Covid_map/map.html
