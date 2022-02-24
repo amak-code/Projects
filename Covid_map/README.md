@@ -20,10 +20,10 @@ The data contains the following information:
 -Main Data(Country Name + Confirmed cases + Deaths + Mortality)
 
 VISUALIZATION:
-Using Folium Labrary I created Interactive Global Map with icons for every contry. 
-It showes the Country name if you hover over the icon.
-If you click on icon it showes: Country Name + Confirmed cases + Deaths + Mortality per 100,000 popualtion ()
+Using Folium Library I created Interactive Global Map with icons for every contry. 
+It shows the Country name if you hover over the icon.
+If you click on icon it shows: Country Name + Confirmed cases + Deaths + Mortality per 100,000 population ()
 The data from "Main Data" column is used for popup.
-The data from "Lat" and "Long" colums used for country location on the Map.
+The data from "Lat" and "Long" columns used for country location on the Map.
 
 https://amak-code.github.io/Projects/Covid_map/map.html
