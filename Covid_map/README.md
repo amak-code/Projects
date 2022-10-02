@@ -1,7 +1,7 @@
 # Covid_Map Project
 
-This project is a Covid Data Map visualizing Counties Covid Data on a Global Map ( last update from 12/25/2021).
-It'made on Jupyter Notebook using Pandas and Folium Libraries.
+This project is a Covid Data Map visualizing Countries Covid Data on a Global Map ( last update from 12/25/2021).
+It is made on Jupyter Notebook using Pandas and Folium Libraries.
 
 DATA:
 The Covid data was taken from "JHU CSSE COVID-19 Data" (url: https://github.com/CSSEGISandData/COVID-19)
